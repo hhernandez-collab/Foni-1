@@ -1,0 +1,6 @@
+{
+  "name": "Dalefon",
+  "description": "Asistente inteligente con interacción por voz y avatar animado para Dalefon OMV México.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
